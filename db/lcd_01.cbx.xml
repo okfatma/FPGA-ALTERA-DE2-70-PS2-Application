@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="lcd_01">
+		<CBX_INST_ENTRY INSTANCE_NAME="|main|lcd_01:lcd_birimi|altsyncram:line1_rtl_0" CBX_FILE_NAME="altsyncram_o8m1.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

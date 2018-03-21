@@ -1,0 +1,20 @@
+Quartus II Archive log --	C:/Users/fatma/Desktop/fpga_cd/LCDKEYBOARD/proje_kodlarý.qarlog
+
+Archive:	C:/Users/fatma/Desktop/fpga_cd/LCDKEYBOARD/proje_kodlarý.qar
+Date:		Tue May 31 14:32:27 2016
+Quartus II 64-Bit		13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/Users/fatma/Desktop/fpga_cd/LCDKEYBOARD/incremental_db/compiled_partitions/lcd_01.db_info
+C:/Users/fatma/Desktop/fpga_cd/LCDKEYBOARD/keyb/debounce.vhd
+C:/Users/fatma/Desktop/fpga_cd/LCDKEYBOARD/keyb/ps2_keyboard.vhd
+C:/Users/fatma/Desktop/fpga_cd/LCDKEYBOARD/keyb/ps2_keyboard_to_ascii.vhd
+C:/Users/fatma/Desktop/fpga_cd/LCDKEYBOARD/lcd_01.qpf
+C:/Users/fatma/Desktop/fpga_cd/LCDKEYBOARD/lcd_01.qsf
+C:/Users/fatma/Desktop/fpga_cd/LCDKEYBOARD/lcd_01.vhd
+C:/Users/fatma/Desktop/fpga_cd/LCDKEYBOARD/main.vhd
+d:/quartus/bin64/assignment_defaults.qdf
+	======= Total: 9 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

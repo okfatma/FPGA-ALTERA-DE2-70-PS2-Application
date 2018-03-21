@@ -1,0 +1,27 @@
+
+State Machine - |main|lcd_01:lcd_birimi|next_state
+Name next_state.home next_state.chk_bf next_state.en_h next_state.clr_disp next_state.wr_ddram next_state.disp_on next_state.init 
+next_state.init 0 0 0 0 0 0 0 
+next_state.disp_on 0 0 0 0 0 1 1 
+next_state.wr_ddram 0 0 0 0 1 0 1 
+next_state.clr_disp 0 0 0 1 0 0 1 
+next_state.en_h 0 0 1 0 0 0 1 
+next_state.chk_bf 0 1 0 0 0 0 1 
+next_state.home 1 0 0 0 0 0 1 
+
+State Machine - |main|lcd_01:lcd_birimi|state
+Name state.home state.chk_bf state.en_h state.clr_disp state.wr_ddram state.disp_on state.init 
+state.init 0 0 0 0 0 0 0 
+state.disp_on 0 0 0 0 0 1 1 
+state.wr_ddram 0 0 0 0 1 0 1 
+state.clr_disp 0 0 0 1 0 0 1 
+state.en_h 0 0 1 0 0 0 1 
+state.chk_bf 0 1 0 0 0 0 1 
+state.home 1 0 0 0 0 0 1 
+
+State Machine - |main|ps2_keyboard_to_ascii:keyboard_birimi|state
+Name state.output state.translate state.new_code state.ready 
+state.ready 0 0 0 0 
+state.new_code 0 0 1 1 
+state.translate 0 1 0 1 
+state.output 1 0 0 1 
